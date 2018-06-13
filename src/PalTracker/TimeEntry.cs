@@ -8,9 +8,9 @@ namespace PalTracker
         public long ProjectId{get; set;}
         public long UserId{get; set;}
         public DateTime Date{get; set;}
-        public long Hours{get; set;}
+        public int Hours{get; set;}
 
-        public TimeEntry(long projectId, long userId, DateTime date, long hours)
+        public TimeEntry(long projectId, long userId, DateTime date, int hours)
         {
             Id = 0;
             ProjectId = projectId;
