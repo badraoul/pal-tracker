@@ -5,4 +5,4 @@ applications:
   routes:
   - route: msg-pal-tracker-swatkins.cfapps.io
   env:
-    WELCOME_MESSAGE: Hello from the prod environment
+    WELCOME_MESSAGE: Hello from the super prod environment
