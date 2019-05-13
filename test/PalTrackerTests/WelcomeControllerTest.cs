@@ -1,7 +1,8 @@
 ﻿using PalTracker;
 using Xunit;
 
-namespace PalTrackerTests
+
+namespace PalTracker
 {
     public class WelcomeControllerTest
     {
